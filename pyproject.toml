@@ -1,0 +1,7 @@
+[project]
+name = "class-attendance-app"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.3.3",
+]
